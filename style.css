@@ -1,13 +1,13 @@
 body {
     font-family: sans-serif;
-    background-color:plum ;
 }
+
 img{
     height: 185px;
     width:185px;
     }
     header{
-        background-color:rgb(29, 144, 194);
+        background-color:rgb(86, 86, 255);
         padding:21px;
         }
 
@@ -23,10 +23,12 @@ img{
 
             h1{
                 text-align:center;
-                color:(86, 86, 255);
+                color:rgb(86, 86, 255);;
                 }
 
                 .gallery{
                     display:flex ;
                     justify-content:space-between ;
                     }
+
+
