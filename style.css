@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color:plum ;
+}
+img{
+    height: 185px;
+    width:185px;
+    }
+    header{
+        background-color:rgb(29, 144, 194);
+        padding:21px;
+        }
+
+
+        header a{
+            text-decoration:none ;
+            color: beige;
+            }
+            a:hover{
+                color:blueviolet;
+                transition:all 0.5s linear;
+                }
+
+            h1{
+                text-align:center;
+                color:(86, 86, 255);
+                }
+
+                .gallery{
+                    display:flex ;
+                    justify-content:space-between ;
+                    }
